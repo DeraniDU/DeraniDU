@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deranindu Gunasekara</h1>
-<h3 align="center">I'm interested in the UI UX industry and learning and developing new skills to achieve my future goals in the UI UX industry.</h3>
+<h3 align="center">Passionate Backend Developer skilled in Java, Spring Boot, and Node.js, with a focus on building scalable APIs and microservices. Enthusiastic about CI/CD pipelines, Docker, and Kubernetes to craft efficient and modern solutions. Combining technical expertise with innovative thinking to deliver smart, impactful systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deranindu&label=Profile%20views&color=0e75b6&style=flat" alt="deranindu" /> </p>
 
