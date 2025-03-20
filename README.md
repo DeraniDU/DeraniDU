@@ -37,17 +37,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deranindu&show_icons=true&locale=en&layout=compact" alt="deranindu" /></p>
 
-<h3 align="left">Projects:</h3>
-- **[AutoInsiders.lk](https://github.com/deranindu/AutoInsiders.lk)**: A vehicle marketplace with features like ad posting, search, and vehicle comparison.
-- **[UI/UX Design Portfolio](https://github.com/deranindu/portfolio)**: My portfolio showcasing various UI/UX projects and designs.
-
-<h3 align="left">Interests:</h3>
-- UI/UX Design
-- Full Stack Development (React, Node.js, Spring Boot)
-- Mobile App Development (Android, Flutter)
-- Data Science & Analytics
-- API Development and Integration
-
----
 
 
