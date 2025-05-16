@@ -79,18 +79,6 @@ GitHub Activity
 Show Image
   <!-- Note: You'll need to set up the snake animation action in your GitHub repository -->
 </div>
-Featured Projects
-<div align="center">
-  <a href="https://github.com/deranindu/project-name">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=deranindu&repo=project-name&theme=tokyonight" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/deranindu/project-name-2">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=deranindu&repo=project-name-2&theme=tokyonight" />
-  </a>
-</div>
-<!-- Replace project-name and project-name-2 with actual repositories -->
-Recent Projects
 
 Microservice Architecture Template - A scalable template using Spring Boot and Docker
 RESTful API Framework - Custom framework for rapid API development with built-in security
