@@ -1,41 +1,74 @@
-<h1 align="center">Hi 👋, I'm Deranindu Gunasekara</h1>
-<h3 align="center">Passionate Backend Developer skilled in Java, Spring Boot, and Node.js, with a focus on building scalable APIs and microservices. Enthusiastic about CI/CD pipelines, Docker, and Kubernetes to craft efficient and modern solutions. Combining technical expertise with innovative thinking to deliver smart, impactful systems..</h3>
+<div align="center">👨‍💻 Deranindu Gunasekara</div>
+<div align="center">
+  <h3>Backend Developer & System Architecture Specialist</h3>
+  <p><em>Building scalable systems that make a difference</em></p>
+  <p>
+    <a href="https://linkedin.com/in/deranindu-gunasekara"><img src="https://img.shields.io/badge/-Deranindu%20Gunasekara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:deranindu@gmail.com"><img src="https://img.shields.io/badge/-deranindu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="http://codediaryofme.blogspot.com"><img src="https://img.shields.io/badge/-Tech%20Blog-FF5722?style=flat&logo=blogger&logoColor=white"/></a>
+    <a href="https://stackoverflow.com/users/deranindu"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
+  </p>
+</div>
+About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deranindu&label=Profile%20views&color=0e75b6&style=flat" alt="deranindu" /> </p>
+Passionate Backend Developer skilled in Java, Spring Boot, and Node.js, with a focus on building scalable APIs and microservices. Enthusiastic about CI/CD pipelines, Docker, and Kubernetes to craft efficient and modern solutions. Combining technical expertise with innovative thinking to deliver smart, impactful systems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deranindu" alt="deranindu" /></a> </p>
 
-- 📝 I regularly write articles on [codediaryofme.blogspot.com](http://codediaryofme.blogspot.com)
-- 💬 Ask me about **React, Java, Spring Boot, MongoDB, Docker, API Development, Angular**
-- 📫 Reach me at **deranindu@gmail.com**
+🔭 Currently working on scalable microservices architectures
+🌱 Always learning about cloud-native development patterns
+💬 Ask me about React, Java, Spring Boot, MongoDB, Docker, API Development, Angular
+📝 I regularly write articles on codediaryofme.blogspot.com
+📫 Reach me at: deranindu@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/deranindu-gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deranindu gunasekara" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/deranindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="deranindu" height="30" width="40" /></a>
-  <a href="https://fb.com/deranindu-gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deranindu gunasekara" height="30" width="40" /></a>
-  <a href="https://dribbble.com/deranindu-gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="deranindu gunasekara" height="30" width="40" /></a>
-  <a href="https://www.behance.net/deranindu-gunasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="deranindu gunasekara" height="30" width="40" /></a>
+Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.restapitutorial.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Representational_state_transfer.svg/512px-Representational_state_transfer.svg.png" alt="API" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+My Expertise
+mermaidmindmap
+  root((Deranindu))
+    Backend Development
+      Java
+      Spring Boot
+      Node.js
+      Microservices
+    Frontend
+      React
+      Angular
+    Database
+      MongoDB
+      SQL
+    DevOps
+      Docker
+      Kubernetes
+      CI/CD
+    Mobile
+      Android
+GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deranindu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deranindu&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deranindu&theme=onedark&row=1&column=6" alt="deranindu" />
+</p>
+Recent Projects
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deranindu&show_icons=true&locale=en" alt="deranindu" /></p>
+Microservice Architecture Template - A scalable template using Spring Boot and Docker
+RESTful API Framework - Custom framework for rapid API development with built-in security
+MongoDB Data Pipeline - Real-time data processing system with MongoDB and Kafka
+React Component Library - Custom component library for enterprise applications
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deranindu&show_icons=true&locale=en&layout=compact" alt="deranindu" /></p>
 
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=deranindu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <p>Let's connect and build something amazing together!</p>
+</div>
