@@ -22,7 +22,7 @@ Passionate Backend Developer skilled in Java, Spring Boot, and Node.js, with a f
 
 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
@@ -33,33 +33,63 @@ Tech Stack
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 My Expertise
-mermaidmindmap
-  root((Deranindu))
-    Backend Development
-      Java
-      Spring Boot
-      Node.js
-      Microservices
-    Frontend
-      React
-      Angular
-    Database
-      MongoDB
-      SQL
-    DevOps
-      Docker
-      Kubernetes
-      CI/CD
-    Mobile
-      Android
-GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deranindu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deranindu&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deranindu&theme=onedark&row=1&column=6" alt="deranindu" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Backend</b></td>
+      <td align="center"><b>Frontend</b></td>
+      <td align="center"><b>Database</b></td>
+      <td align="center"><b>DevOps</b></td>
+    </tr>
+    <tr>
+      <td>
+        • Java<br/>
+        • Spring Boot<br/>
+        • Node.js<br/>
+        • Microservices
+      </td>
+      <td>
+        • React<br/>
+        • Angular<br/>
+        • JavaScript<br/>
+        • TypeScript
+      </td>
+      <td>
+        • MongoDB<br/>
+        • SQL<br/>
+        • Data Modeling<br/>
+        • ORM
+      </td>
+      <td>
+        • Docker<br/>
+        • Kubernetes<br/>
+        • CI/CD<br/>
+        • Cloud Services
+      </td>
+    </tr>
+  </table>
+</div>
+GitHub Activity
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend-65%25-brightgreen?style=flat-square" alt="Backend 65%" />
+  <img src="https://img.shields.io/badge/Frontend-20%25-blue?style=flat-square" alt="Frontend 20%" />
+  <img src="https://img.shields.io/badge/DevOps-15%25-orange?style=flat-square" alt="DevOps 15%" />
+</div>
+<div align="center">
+Show Image
+  <!-- Note: You'll need to set up the snake animation action in your GitHub repository -->
+</div>
+Featured Projects
+<div align="center">
+  <a href="https://github.com/deranindu/project-name">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=deranindu&repo=project-name&theme=tokyonight" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/deranindu/project-name-2">
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=deranindu&repo=project-name-2&theme=tokyonight" />
+  </a>
+</div>
+<!-- Replace project-name and project-name-2 with actual repositories -->
 Recent Projects
 
 Microservice Architecture Template - A scalable template using Spring Boot and Docker
@@ -67,6 +97,24 @@ RESTful API Framework - Custom framework for rapid API development with built-in
 MongoDB Data Pipeline - Real-time data processing system with MongoDB and Kafka
 React Component Library - Custom component library for enterprise applications
 
+Let's Connect
+<div align="center">
+  <a href="https://linkedin.com/in/deranindu-gunasekara">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://fb.com/deranindu-gunasekara">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="https://www.behance.net/deranindu-gunasekara">
+    <img src="https://img.shields.io/badge/behance-%231769FF.svg?&style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+  </a>
+  &nbsp;
+  <a href="https://dribbble.com/deranindu-gunasekara">
+    <img src="https://img.shields.io/badge/dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=deranindu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
