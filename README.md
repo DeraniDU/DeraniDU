@@ -76,7 +76,7 @@ GitHub Activity
   <img src="https://img.shields.io/badge/DevOps-15%25-orange?style=flat-square" alt="DevOps 15%" />
 </div>
 <div align="center">
-Show Image
+
   <!-- Note: You'll need to set up the snake animation action in your GitHub repository -->
 </div>
 
