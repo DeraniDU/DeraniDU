@@ -1,6 +1,6 @@
 <div align="center">👨‍💻 Deranindu Gunasekara</div>
 <div align="center">
-  <h3>Backend Developer & System Architecture </h3>
+  <h3>Backend Developer </h3>
   <p><em>Building scalable systems that make a difference</em></p>
   <p>
     <a href="https://linkedin.com/in/deranindu-gunasekara"><img src="https://img.shields.io/badge/-Deranindu%20Gunasekara-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
