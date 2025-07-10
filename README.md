@@ -103,38 +103,16 @@ My enthusiasm for continuous learning and innovative problem-solving drives me t
 
 ## **My Contribution**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deranindu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deranindu&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeraniDU&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeraniDU&layout=compact&theme=radical)
 
 ---
 
 ## **Contribution Graph**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deranindu&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeraniDU&theme=react-dark)
 
 ---
 
-## **Let's Connect**
+## 🗓️ Simulated Weekly Contribution Calendar
 
-<p align="center">
-  <a href="https://linkedin.com/in/deranindu">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/deranindu">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:deranindu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://codediaryofme.blogspot.com">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center"><em>Let's connect and build something amazing together!</em></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deranindu&color=brightgreen&style=for-the-badge"/>
-</p>
