@@ -84,36 +84,13 @@ philosophy : "Design for simplicity. Build for scale. Ship for impact."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DeraniDU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DeraniDU&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeraniDU&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 
 </div>
 
 ---
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<!-- Set up the GitHub Action below to activate this snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeraniDU/DeraniDU/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeraniDU/DeraniDU/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/DeraniDU/DeraniDU/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Open to collaborating on backend systems, cloud infra, and IoT projects
-
-*⭐ If you find something useful in my repos, a star goes a long way!*
-
-</div>
