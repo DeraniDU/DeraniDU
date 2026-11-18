@@ -1,96 +1,149 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Deranindu+Gunasekara+%F0%9F%91%8B;Java+%26+TypeScript+Backend+Engineer;IoT+%26+Cloud+Enthusiast;Building+Systems+that+Scale" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=260&section=header&text=Deranindu%20Gunasekara&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Intern%20System%20Support%20Engineer%20%40%20Arimac%20%C2%B7%20FinTech&descSize=20&descAlignY=60&stroke=ffffff&strokeWidth=1" width="100%" alt="Banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=50&lines=Welcome+to+my+corner+of+GitHub+%E2%9C%A8;Keeping+FinTech+systems+reliable+%F0%9F%8F%A6;Java+%7C+TypeScript+%7C+Cloud+%7C+IoT+%F0%9F%9A%80;SLIIT+Graduate+%F0%9F%8E%93+%C2%B7+Always+Learning" alt="Typing SVG" />
 
 <br/>
-<br/>
 
-<!-- Contact & Profile Badges -->
-[![Gmail](https://img.shields.io/badge/Gmail-deranindu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deranindu@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-Code_Diary-FF6D00?style=for-the-badge&logo=blogger&logoColor=white)](https://codediaryofme.blogspot.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=DeraniDU&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/DeraniDU)
+<a href="mailto:deranindu@gmail.com"><img src="https://img.shields.io/badge/Email_Me-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://codediaryofme.blogspot.com"><img src="https://img.shields.io/badge/Code_Diary-EC4899?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+<a href="https://github.com/DeraniDU"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=DeraniDU&color=8B5CF6&style=for-the-badge&label=VIEWS" alt="Views"/>
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## ✨ Hello, I'm Deranindu
 
-```yaml
-name       : Deranindu Gunasekara
-role       : Backend Developer
-education  : BSc (Hons) Information Technology — SLIIT (Undergraduate)
-location   : Sri Lanka 🇱🇰
+<table>
+<tr>
+<td width="62%" valign="top">
 
-strengths:
-  - Scalable API design & microservice architectures
-  - IoT data pipelines and real-time telemetry
-  - Cloud-native deployments & containerized workloads
+I'm an **Intern System Support Engineer at Arimac** 🏦, keeping critical **FinTech** platforms stable, secure and fast. Recently graduated with a **BSc (Hons) in Information Technology from SLIIT** 🎓, I blend **backend engineering**, **cloud** and **IoT** into systems that are built to last.
 
-currently_learning:
-  - Rust  →  systems-level performance
-  - Go    →  high-throughput backend services
-  - Python →  ML pipelines & automation
-  - IoT & Embedded Engineering concepts
+🔭 **Working on:** production reliability for financial systems<br/>
+🌱 **Learning:** Rust · Go · Python · Embedded<br/>
+⚡ **Strengths:** scalable APIs · microservices · cloud-native<br/>
+📡 **Exploring:** MQTT telemetry · edge computing<br/>
+📍 **Based in:** Sri Lanka 🇱🇰
 
-philosophy : "Design for simplicity. Build for scale. Ship for impact."
-```
+<br/>
 
----
+> 💬 *"Design for simplicity. Build for scale. Ship for impact."*
 
-## 🛠️ Tech Arsenal
+</td>
+<td width="38%" align="center" valign="middle">
 
-### ⚙️ Languages & Backend Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://img.shields.io/badge/ROLE-Intern_System_Support_Engineer-6366F1?style=for-the-badge" alt="Role"/><br/><br/>
+<img src="https://img.shields.io/badge/COMPANY-Arimac_(FinTech)-8B5CF6?style=for-the-badge" alt="Company"/><br/><br/>
+<img src="https://img.shields.io/badge/EDUCATION-BSc_(Hons)_IT-EC4899?style=for-the-badge" alt="Education"/><br/><br/>
+<img src="https://img.shields.io/badge/STATUS-Graduate_🎓-F59E0B?style=for-the-badge" alt="Status"/>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</td>
+</tr>
+</table>
 
-### ☁️ Cloud, DevOps & Tooling
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
-### 🌱 Currently Exploring
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
-## 🎯 Current Focus Areas
-
-| Domain | What I'm building / learning |
-|--------|------------------------------|
-| ☁️ **Cloud-Native** | Production workloads on AWS · K8s cluster management · Helm & GitOps |
-| 📡 **IoT & Embedded** | MQTT telemetry pipelines · Device firmware concepts · Edge computing |
-| ⚙️ **Systems Programming** | Rust ownership model · Go concurrency patterns · High-perf backends |
-| 🏗️ **Distributed Systems** | Event-driven architecture · Message queues · Fault-tolerant design |
-
----
-
-## 📊 GitHub Analytics
+## 🚀 Tech Arsenal
 
 <div align="center">
 
+**⚙️ Backend**<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,express&perline=10" alt="Backend" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DeraniDU&theme=tokyonight&hide_border=true" />
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=10" alt="Databases" />
 
-<br/>
+**☁️ Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,linux&perline=10" alt="Cloud" />
 
-
+**🌱 Currently Exploring**<br/>
+<img src="https://skillicons.dev/icons?i=rust,go,py,raspberrypi&perline=10" alt="Exploring" />
 
 </div>
 
----
+<br/>
+
+## 🎯 What I Do
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🏦
+**FinTech Support**
+
+Monitoring, incident response and root-cause analysis for production systems
+
+</td>
+<td align="center" width="25%">
+
+### ☁️
+**Cloud-Native**
+
+AWS, Kubernetes, Helm and GitOps for scalable deployments
+
+</td>
+<td align="center" width="25%">
+
+### 📡
+**IoT & Edge**
+
+MQTT telemetry pipelines and real-time device data
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**Systems**
+
+Rust and Go for performance-critical backends
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛤️ My Journey
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#8B5CF6','primaryTextColor':'#fff','lineColor':'#EC4899'}}}%%
+flowchart LR
+    A["🎓 SLIIT<br/>BSc (Hons) IT"] --> B["💼 Arimac<br/>Intern System Support Engineer"]
+    B --> C["☁️ Cloud"]
+    B --> D["📡 IoT"]
+    B --> E["⚙️ Rust & Go"]
+```
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DeraniDU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeraniDU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=DeraniDU&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DeraniDU&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" alt="Activity" />
+
+</div>
+
+<br/>
+
+## 💌 Let's Connect
+
+<div align="center">
+
+Got an idea, a question, or just want to talk **backend, FinTech, cloud or IoT**?
+
+<a href="mailto:deranindu@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-deranindu@gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=130&section=footer" width="100%" alt="Footer" />
+
+</div>
